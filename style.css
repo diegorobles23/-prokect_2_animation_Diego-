@@ -1,11 +1,10 @@
-body{
-  background-image: url("http://www.androidguys.com/wp-content/uploads/2015/11/vRBGvSl.jpg");
-  background-size: 100% ;
+body {
+    background-image: url("http://www.androidguys.com/wp-content/uploads/2015/11/vRBGvSl.jpg");
+    background-size: 100%;
     background-repeat: no-repeat;
+    px px;
+}
 
-  px px;
- }
- h1  {
-     font-family: 'Indie Flower', cursive;
- }
-S
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
